@@ -1,0 +1,21 @@
+{
+  "app": {
+    "name": "CastQuotes",
+    "description": "Daily quotes of onchain casts",
+    "homeUrl": "https://castquotes.vercel.app",
+    "iconUrl": "https://farcaster.xyz/favicon.png",
+    "splashImageUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "splashBackgroundColor": "#0A0A14",
+    "subtitle": "Onchain quotes for your daily casts",
+    "primaryCategory": "social",
+    "tags": ["quotes", "farcaster", "onchain", "social"],
+    "buttonTitle": "Open CastQuotes",
+    "castShareUrl": "https://warpcast.com/~/compose?text=CastQuotes:+Daily+onchain+quotes!",
+    "marketingTagline": "Cast your vibe, one quote at a time.",
+    "socialShare": {
+      "title": "CastQuotes – Onchain Quotes",
+      "description": "Discover and share your daily onchain quote directly inside Farcaster.",
+      "imageUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    }
+  }
+}
