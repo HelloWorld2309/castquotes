@@ -100,7 +100,7 @@ export default function App(): JSX.Element {
   const [authStep, setAuthStep] = useState<"locked" | "unlocked">("locked");
   const [pwInput, setPwInput] = useState("");
   const [newQuoteText, setNewQuoteText] = useState("");
-  const [adminPw, setAdminPwState] = useState(getAdminPw());
+const [, setAdminPwState] = useState(getAdminPw());
 
   // Load quotes: try localStorage -> remote -> default
   useEffect(() => {
